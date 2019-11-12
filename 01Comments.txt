@@ -1,0 +1,12 @@
+Comments:
+
+La langue de programmation est l'anglais. Les caracteres francais ne peuvent pas etre utilises dans les codes, meme pas dans les commentaires !
+
+Qu'est-ce qu'un commentaire ?
+
+Un code peut être très long et compliqué. Les commentaires sont généralement utilisés pour de petites explications dans le code. Dans le meilleur des cas, les commentaires sont rédigés de manière à ce que chacun puisse lire et comprendre le code. Mettre trop de commentaires est aussi mauvais que de ne pas en mettre du tout. Il faut trouver un bon compromis.
+
+Executez le programme Code00Comments.py, puis ouvrez le et regardez la ligne 2 et les lignes 4 a 6. Les commentaires sont simplement ignorés par l'ordinateur pendant l'exécution.
+
+Excersice : Ajoutez votre propre commentaire et executez a nouveau le programme. Convainquez-vous que le output du programme reste inchange. Attention, vous devez d'abord sauvegarder le code modifie !
+

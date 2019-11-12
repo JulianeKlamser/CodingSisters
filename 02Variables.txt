@@ -1,0 +1,14 @@
+Variables:
+
+Un code effectue généralement des opérations sur des variables. Les opérations les plus basiques sont l'addition (+), la sous-station (-), la multiplication (*) et la division (/).
+
+Excersice :
+1) Ouvrir et exécuter le code Code01Variables.py. Modifiez les variables a et b et vérifiez la sortie du code. La sortie est le résultat que vous voyez dans le terminal. Elle est définie par les déclarations "print" à l'intérieur du code.
+
+2) Que se passe-t-il avec la variable “a” si vous écrivez
+a += a
+ou avec “b” lorsque vous écrivez
+b *= a
+
+Pour voir le résultat, vous devez ajouter votre propre déclaration "print ". Par exemple :
+print(“a = ”, a)
