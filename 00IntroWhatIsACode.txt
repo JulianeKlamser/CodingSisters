@@ -22,3 +22,5 @@ This code has an output: The robot declares that he as completed his task once t
 Now the dish washer is done and you want to try your robot. You put it in the kitchen, switch it on and it works just fine. You are happy and you celebrate your success with a cup of tea. After you finished your tea, you put your cup in the dishwasher. Suddenly your robot takes your dirty tea cup and puts it to the clean cups in the cupboard and you realise that you should have been more precise in the first line (e.g. As long as the dish washer is not empty and all items are clean, do the following: ).
 
 Coding is all about this. You have a specific task, which can be automated. So you write a code with inputs, outputs, conditions, loops… You try your code, you find a mistake, you correct the mistake and you try again until it works. Once it works you have a lot of free time for other things! We will teach you how to code, you only need to build your robot ;-P
+
+******
