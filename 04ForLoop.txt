@@ -1,0 +1,25 @@
+Pour boucle :
+
+Les boucles "for" sont un outil de programmation extrêmement puissant. En python, les boucles "for" existent en différentes versions.
+
+Exemple 1)
+Imaginez que nous avons deux entiers A et B, où A est plus petit que B. Nous voulons imprimer tous les entiers qui se trouvent entre ces deux entiers.
+
+Exécutez le code Code04aForLoops.py, puis ouvrez-le et essayez de relier le code à la sortie. Les questions ci-dessous vous aideront à comprendre le fonctionnement de la boucle for.
+
+La limite inférieure, donnée par A, est-elle imprimée ?
+La limite supérieure, donnée par B, est-elle imprimée ?
+Que se passe-t-il si vous choisissez C = 2 ?
+Que se passe-t-il si vous choisissez A = 10, B = -5 et C = -1 ?
+Encore une fois, la limite donnée par A est-elle imprimée ?
+La limite donnée par B est-elle imprimée ? 
+
+Exemple 2)
+Les boucles "for" peuvent également passer sur chaque lettre d'une chaîne de caractères.
+
+Exécutez le code Code04bForLoops.py, puis ouvrez-le et essayez de relier le code à la sortie.
+
+Que se passe-t-il si vous apportez une petite modification au code en écrivant
+for dummy in reversed( prenom ):
+
+Votre exercice consiste à utiliser la variable "PrenomInverse" à l'intérieur de la boucle "for" pour stocker le nom inversé dans cette variable. Vous trouverez la solution dans Code04bForLoopsSolution.py 

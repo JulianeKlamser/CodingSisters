@@ -6,9 +6,11 @@ Excersice :
 1) Ouvrir et exécuter le code Code01Variables.py. Modifiez les variables a et b et vérifiez la sortie du code. La sortie est le résultat que vous voyez dans le terminal. Elle est définie par les déclarations "print" à l'intérieur du code.
 
 2) Que se passe-t-il avec la variable “a” si vous écrivez
-a += a
-ou avec “b” lorsque vous écrivez
-b *= a
+a = a + 1
+ou bien
+a += 1
+Vous pouvez remplacer + par -, *, /.
+Vous pouvez également remplacer 1 par a, b ou tout autre nombre.
 
 Pour voir le résultat, vous devez ajouter votre propre déclaration "print ". Par exemple :
 print(“a = ”, a)

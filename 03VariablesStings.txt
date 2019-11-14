@@ -1,0 +1,21 @@
+Variables:
+
+Des lettres, des mots et même des phrases et des textes entiers peuvent être assignés aux variables. Ces types de variables sont de type chaîne de caractères ("string"). 
+
+Un petit exemple est donné dans le code Code03VariablesStings.py. Ce code demande d'insérer un prénom. Le prénom sera stocké dans une variable. Cette variable sera utilisée dans une déclaration imprimée.
+
+Le code comptera également le nombre de lettres d'un nom de famille.
+
+Il y a un certain nombre d'opérations qui peuvent être effectuées sur les chaînes de caractères. Par exemple :
+Il est possible de compter le nombre de caractères d'une chaîne avec la fonction len( x ).  Ici x est une variable de type string.
+Il est également possible d'ajouter des chaînes de caractères comme dans l'exemple suivant
+
+A = "Pascal"
+B = "e"
+C = A + B
+
+Maintenant C égale Pascale. Notez, les guillemets. Ils sont essentiels pour les chaînes de caractères.
+
+Faites de l'exercice :
+
+Créez une variable qui est la somme du prénom et du nom de famille. Utilisez la fonction len() pour calculer le nombre de caractères de cette nouvelle variable et imprimer ce nombre.
