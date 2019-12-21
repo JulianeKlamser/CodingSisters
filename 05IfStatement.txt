@@ -1,0 +1,9 @@
+Imaginez que vous arrivez à un croisement de rue avec un feu de circulation. Vous suivez les règles de la rue. Si c'est rouge, vous attendez. S'il est vert, vous traversez la rue. 
+
+Un code peut suivre des règles équivalentes, que nous sommes libres de définir. La déclaration utilisée dans les codes est appelée if-statement.
+
+Lancez le code Code05IfStatement.py et essayez de connecter la sortie avec le code. Votre tâche est de modifier le code de façon à ce qu'il puisse dire si un nom contient une voyelle (c'est-à-dire a, e, i, o, u) ou non.
+
+Veuillez vérifier la solution dans Code05IfStatementSolution.py pour apprendre un nouvel opérateur (le logique ou l'opérateur).
+
+Votre tâche finale est de modifier Code05IfStatementSolution.py de façon à ce qu'il compte et imprime le nombre total de voyelles dans un mot. (Connaissez-vous un nom sans voyelles ?) 
